@@ -2,7 +2,6 @@
 <resources>
 
     <declare-styleable name="CustomToolBar">
-        <attr name="backgroundColor" format="color"/>
         <attr name="showHomeButton" format="boolean"/>
         <attr name="customTitle" format="string"/>
     </declare-styleable>
